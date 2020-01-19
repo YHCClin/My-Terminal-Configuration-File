@@ -11,7 +11,7 @@ sudo pacman -S zsh autojump xdoctool
 ```shell
 chsh -s /bin/zsh
 ```
-
+4. 将两个`.ttf` 字体文件安装到系统中后更改终端字体设置
 
 
 ---
