@@ -23,7 +23,7 @@ chsh -s /bin/zsh
 
 
 ### 效果截图：
-![](https://hexoblog-1257022783.cos.ap-chengdu.myqcloud.com/%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20200119082831.png)
+[点击查看截图](https://hexoblog-1257022783.cos.ap-chengdu.myqcloud.com/%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20200119082831.png)
 
 >  系统： Manjaro
 
